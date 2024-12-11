@@ -15,7 +15,7 @@ def main():
     if page == "About Me":
         st.title("👋 Hi, I'm [Your Name]")
         
-        col1, col2 = st.columns([1, 2])
+        col1, col2 = st.columns([100, 2])
         with col1:
             st.image("images.jpeg", caption="Your Profile Picture", width=250)
         
