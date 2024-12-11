@@ -78,8 +78,8 @@ def main():
         
         experiences = [
             {
-                "company": "Tech Company A",
-                "role": "Senior Software Engineer",
+                "company": "nig",
+                "role": "sjiejdei",
                 "duration": "Jan 2020 - Present",
                 "description": "Led development of scalable web applications..."
             },
