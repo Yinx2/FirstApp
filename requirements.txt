@@ -1,0 +1,7 @@
+streamlit==1.29.0
+pandas==2.2.0
+plotly==5.18.0
+numpy==1.26.3
+Pillow==10.2.0  # Optional, for image processing
+requests==2.31.0  # Optional, for potential API integrations or form submissions
+python-dotenv==1.0.0  # Optional, for environment variable management
